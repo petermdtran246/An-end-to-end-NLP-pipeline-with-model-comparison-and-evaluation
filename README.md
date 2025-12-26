@@ -1,4 +1,4 @@
-# Building Your Own Text Classifier  
+# Building My Own Text Classifier  
 ### An end-to-end NLP pipeline with model comparison and evaluation
 
 ## Overview
